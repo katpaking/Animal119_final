@@ -1,0 +1,70 @@
+# home section
+home=com.animal.controller.HomeController
+# member section
+meLogin=com.animal.controller.member.MemberLoginController
+meLogout=com.animal.controller.member.MemberLogoutController
+meInsert=com.animal.controller.member.MemberInsertController
+meDetail=com.animal.controller.member.MemberDetailController
+meDelete=com.animal.controller.member.MemberDeleteController
+meList=com.animal.controller.member.MemberListController
+# product section
+prInsert=com.animal.controller.product.productInsertController
+prUpdate=com.animal.controller.product.productUpdateController
+prDelete=com.animal.controller.product.productDeleteController
+prList=com.animal.controller.product.productListController
+prDetail=com.animal.controller.product.productDetailController
+# mall section
+maInsert=com.animal.controller.mall.MallInsertController
+maUpdate=com.animal.controller.mall.MallUpdateController
+maDelete=com.animal.controller.mall.MallDeleteController
+maList=com.animal.controller.mall.MallListController
+maHistory=com.animal.controller.mall.MallHistoryController
+maDetail=com.animal.controller.mall.MallDetailController
+maCalculate=com.animal.controller.mall.MallCalculateController
+# Animal section
+aniInsert=com.animal.controller.animal.AnimalInsertController
+aniUpdate=com.animal.controller.animal.AnimalUpdateController
+aniDelete=com.animal.controller.animal.AnimalDeleteController
+aniList=com.animal.controller.animal.AnimalListController
+aniDetail=com.animal.controller.animal.AnimalDetailController
+# frboard section
+#frboLogin=com.animal.controller.frboard.frBoardLoginController
+#frboLogout=com.animal.controller.frboard.frBoardLogoutController
+frboInsert=com.animal.controller.frboard.frBoardInsertController
+frboDetail=com.animal.controller.frboard.frBoardDetailController
+frboUpdate=com.animal.controller.frboard.frBoardUpdateController
+frboDelete=com.animal.controller.frboard.frBoardDeleteController
+frboList=com.animal.controller.frboard.frBoardListController
+frboReply=com.animal.controller.frboard.frBoardReplyController
+#frboIdCheck=com.animal.controller.frboard.frBoardIdCheckController
+# notice section
+#noLogin=com.animal.controller.notice.NoticeLoginController
+#noLogout=com.animal.controller.notice.NoticeLogoutController
+noInsert=com.animal.controller.notice.NoticeInsertController
+noDetail=com.animal.controller.notice.NoticeDetailController
+noUpdate=com.animal.controller.notice.NoticeUpdateController
+noDelete=com.animal.controller.notice.NoticeDeleteController
+noList=com.animal.controller.notice.NoticeListController
+noReply=com.animal.controller.notice.NoticeReplyController
+#noIdCheck=com.animal.controller.notice.NoticeIdCheckController
+# support section
+suDetail=com.animal.controller.support.SupportDetailController
+suList=com.animal.controller.support.SupportListController
+suInsert=com.animal.controller.support.SupportInsertController
+suUpdate=com.animal.controller.support.SupportUpdateController
+suDelete=com.animal.controller.support.SupportDeleteController
+# comment section 
+cmInsert=com.animal.controller.comment.CommentInsertController
+cmDelete=com.animal.controller.comment.CommentDeleteController
+cmList=com.animal.controller.comment.CommentListController
+cmUpdate=com.animal.controller.comment.CommentUpdateController
+# nocomment section 
+nocmInsert=com.animal.controller.nocomment.noCommentInsertController
+nocmDelete=com.animal.controller.nocomment.noCommentDeleteController
+nocmList=com.animal.controller.nocomment.noCommentListController
+# adopt section
+AdoptDetail=com.animal.controller.adopt.AdoptDetailController
+AdoptList=com.animal.controller.adopt.AdoptListController
+AdoptInsert=com.animal.controller.adopt.AdoptInsertController
+AdoptUpdate=com.animal.controller.adopt.AdoptUpdateController
+AdoptDelete=com.animal.controller.adopt.AdoptDeleteController
